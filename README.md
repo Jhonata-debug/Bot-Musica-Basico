@@ -12,7 +12,7 @@ Se vocês quiser usar este codigo fique há vontade
 
 ### **Aviso:**
 ```
-Este bot não sera atualizado tuda a hora!
+Este bot não sera atualizado toda a hora!
 Só quando houver alguma importante
 E se atualizar não vou mudar muita coisa
 ```
